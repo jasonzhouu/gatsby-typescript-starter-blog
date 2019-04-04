@@ -1,5 +1,5 @@
 ---
-title: 【Bitcoin Core系列】在Mac上运行
+title: 【Bitcoin】在Mac上运行
 date: '2018-12-29'
 ---
 
