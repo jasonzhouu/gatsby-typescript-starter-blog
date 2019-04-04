@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Typescript Starter Blog',
+    title: 'Yusheng Zhou',
     description:
-      'Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.',
+      'talk about something about blockchain',
     author: '@gatsbyjs',
   },
   plugins: [
